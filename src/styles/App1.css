@@ -1,0 +1,7 @@
+.App1{
+    position: relative;
+    overflow-x: clip;
+}
+.App1>:nth-child(1){
+    background: var(--black);
+}
